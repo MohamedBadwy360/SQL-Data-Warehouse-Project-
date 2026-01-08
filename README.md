@@ -76,4 +76,4 @@ Develop SQL-based analytics to deliver detailed insights into:
 - **Sales Trends**
 
 --- 
-All Thanks to [Data with Baraa](https://www.youtube.com/@DataWithBaraa).
+### 🥰 Thanks to [Data with Baraa](https://www.youtube.com/@DataWithBaraa) for his effort and guidance in his tutorials and this project.
