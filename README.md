@@ -29,7 +29,7 @@ This project involves:
 - **[Datasets](datasets/):** Access to the project dataset (csv files).
 - **[SQL Server Developer Edition](https://www.microsoft.com/en-us/sql-server/sql-server-downloads):** Lightweight server for hosting your SQL database.
 - **[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16):** GUI for managing and interacting with databases.
-- **[Git Repository](https://github.com/):** Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
+- **[Git Repository](https://github.com/):** Set up a repository to manage, version, and collaborate on your code efficiently.
 - **[DrawIO](https://www.drawio.com/):** Design data architecture, models, flows, and diagrams.
 - **[Notion Project Steps](https://www.notion.so/DWH-Project-2d0797152de580799efdc3f78c994c8c?source=copy_link):** Access to All Project Phases and Tasks.
 
