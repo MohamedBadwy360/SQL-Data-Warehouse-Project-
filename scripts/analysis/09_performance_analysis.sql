@@ -50,7 +50,7 @@ ORDER BY product_name, order_year;
 
 /* Analyze the yearly performance of categories by comparing their sales 
 to both the average sales performance of the categories and the previous year's sales */
-WITH yearly_products_sales AS (
+WITH yearly_categories_sales AS (
 	SELECT
 		p.category,
 		YEAR(s.order_date) AS order_year,
